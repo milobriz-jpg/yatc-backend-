@@ -1,0 +1,8 @@
+{
+  "name": "yatc-backend",
+  "version": "1.0.0",
+  "description": "Leaderboard backend for You Are the Cursor",
+  "engines": {
+    "node": "18.x"
+  }
+}
